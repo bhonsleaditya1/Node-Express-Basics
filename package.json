@@ -1,5 +1,12 @@
 {
+  "scripts":{
+    "start":"nodemon app.js",
+    "dev":"nodemon app.js"
+  },
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
